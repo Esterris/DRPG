@@ -1,0 +1,18 @@
+"Gamemode"
+{
+	"base"			"base"
+	"title"			"DRPG"
+	"menusystem"	"1"
+	"workshopid"	""
+	"settings"
+	{
+		1
+		{
+			"name"		"DRPG_test"
+			"text"		"Test"
+			"help"		"A test command"
+			"type"		"numeric"
+			"default"	"1"
+		}
+	}
+}
